@@ -230,6 +230,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-*.csproj
-*.sln
-Source/Properties/AssemblyInfo.cs
+
+# Rimworld specific
+_PublisherPlus.xml

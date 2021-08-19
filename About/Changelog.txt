@@ -1,5 +1,8 @@
 # Changelog for 10xCarryingCapacity
 
+1.0.5.0 - Testing new workflow
+
+
 1.0.4.0 - Mod passed autotests for version 1.3
 
 

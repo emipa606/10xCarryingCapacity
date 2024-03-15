@@ -3,6 +3,8 @@
   <Excluded>
     <exclude>E:\SteamLibrary\steamapps\common\RimWorld\Mods\10xCarryingCapacity\.gitignore</exclude>
     <exclude>E:\SteamLibrary\steamapps\common\RimWorld\Mods\10xCarryingCapacity\.git</exclude>
+    <exclude>E:\SteamLibrary\steamapps\common\RimWorld\Mods\10xCarryingCapacity\.gitmodules</exclude>
+    <exclude>E:\SteamLibrary\steamapps\common\RimWorld\Mods\10xCarryingCapacity\.gitattributes</exclude>
     <exclude>E:\SteamLibrary\steamapps\common\RimWorld\Mods\10xCarryingCapacity\Source</exclude>
   </Excluded>
 </Configuration>

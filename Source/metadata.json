@@ -2,5 +2,11 @@
   "Continued": true,
   "CanAdd": "0",
   "CanRemove": "0",
-  "PreviewVersion": "1.5"
+  "PreviewVersion": "1.6",
+  "SocialImageSet": true,
+  "SearchTags": [
+    "strong pawns",
+    "qol"
+  ],
+  "LastXmlCleaning": "2025-06-14T21:29:44.0297378+02:00"
 }

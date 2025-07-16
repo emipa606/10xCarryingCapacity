@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<TabulaRasa.UpdateDef Abstract="true" Name="10xCarryingCapacity_UpdateInfoBase">
+		<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2019000693</linkUrl>
+		<banner>UpdateInfo/10xCarryingCapacity</banner>
+	</TabulaRasa.UpdateDef>
+	<TabulaRasa.UpdateDef ParentName="10xCarryingCapacity_UpdateInfoBase" MayRequire="neronix17.toolbox">
+		<defName>10xCarryingCapacity_1_6_0</defName>
+		<date>2025/7/16</date>
+		<content>This mod will not be further updated, please use Strong Pawns by нїppо instead.</content>
+	</TabulaRasa.UpdateDef>
+</Defs>
+

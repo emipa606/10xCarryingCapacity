@@ -5,7 +5,9 @@
 Update of mpwozs mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1477183263
 
-![Image](https://i.imgur.com/pufA0kM.png)
+![Image](https://i.imgur.com/3npT60J.png)
+
+This mod has been replaced by [Strong Pawns](https://steamcommunity.com/sharedfiles/filedetails/?id=3523631891) by нїppо
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
 

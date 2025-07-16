@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<HugsLib.UpdateFeatureDef Abstract="true" Name="10xCarryingCapacity_UpdateFeatureBase">
+		<modNameReadable>10xCarryingCapacity</modNameReadable>
+		<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2019000693</linkUrl>
+	</HugsLib.UpdateFeatureDef>
+	<HugsLib.UpdateFeatureDef ParentName="10xCarryingCapacity_UpdateFeatureBase">
+		<defName>10xCarryingCapacity_1_6_0</defName>
+		<assemblyVersion>1.6.0</assemblyVersion>
+		<content>This mod will not be further updated, please use Strong Pawns by нїppо instead.</content>
+	</HugsLib.UpdateFeatureDef>
+</Defs>
+

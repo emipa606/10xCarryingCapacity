@@ -8,5 +8,11 @@
     "strong pawns",
     "qol"
   ],
-  "LastXmlCleaning": "2025-06-14T21:29:44.0297378+02:00"
+  "LastXmlCleaning": "2025-07-16T09:07:46.3843371+02:00",
+  "Patches": true,
+  "Defs": false,
+  "Assemblies": false,
+  "LinesOfCode": 0,
+  "LinesOfXML": 276,
+  "CodeBaseSize": 39
 }
